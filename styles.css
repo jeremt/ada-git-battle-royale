@@ -1,0 +1,32 @@
+body {
+
+    background-color: aqua;
+}
+
+.title {
+
+    background-color: crimson;
+    display: flex;
+    justify-content: center ;
+}
+
+
+
+.container {
+
+    
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.map {
+
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    height: 300px;
+    width: 250px;
+
+}
